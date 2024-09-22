@@ -26,4 +26,4 @@ app.use(adminRoute)
 
 
 
-app.listen(8000,()=>console.log(`Your Server Running on ${port} 🔥`));
+app.listen(8080,()=>console.log(`Your Server Running on ${port} 🔥`));
